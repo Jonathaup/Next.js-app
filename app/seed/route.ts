@@ -1,4 +1,6 @@
-import bcrypt from 'bcrypt';
+//Supuestamente este archivo se debe eliminar en el capitulo 6 //
+
+import bcrypt from 'bcryptjs';
 import postgres from 'postgres';
 import { invoices, customers, revenue, users } from '../lib/placeholder-data';
 
