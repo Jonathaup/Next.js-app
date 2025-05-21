@@ -12,7 +12,7 @@ import {
 } from '@/app/ui/skeletons';
  
 export default async function Page() {
-  // Remove `const latestInvoices = await fetchLatestInvoices()`
+  // *Remove `const latestInvoices = await fetchLatestInvoices()`
   
    return (
     <main>
